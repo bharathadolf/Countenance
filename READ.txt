@@ -1,0 +1,3 @@
+classifiers -xml files for detecting 
+dataset-- for storing the images 
+recognizer --it container the traindata 
